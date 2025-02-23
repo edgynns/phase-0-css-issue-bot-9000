@@ -1,0 +1,6 @@
+{
+    "spec": true,
+    "json-file": {
+      "output": ".results.json"
+    }
+  }

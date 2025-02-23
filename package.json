@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/learn-co-curriculum/phase-0-css-issue-bot-9000#readme",
   "devDependencies": {
+    "@mochajs/multi-reporter": "^1.1.0",
     "chai": "^4.3.4",
     "chai-dom": "^1.10.0",
     "cssom": "^0.5.0",
