@@ -1,19 +1,24 @@
+/* Set the background of the body to pink */
 body {
   background: pink;
 }
 
+/* Set the font size for h1 to 3em */
 h1 {
   font-size: 3em;
 }
 
+/* Set the font weight for h2 to normal */
 h2 {
   font-weight: normal;
 }
 
+/* Set the font size for elements with the class 'completed' */
 .completed {
   font-size: 12px;
 }
 
+/* Set the background for elements with the class 'completed' inside the element with id 'tasks' */
 #tasks .completed {
   background: #ccc;
 }
